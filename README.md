@@ -1,7 +1,7 @@
 # PvKF assimilation (regular)
 
-Readme file for parametric varaince Kalman filter (PvKF) data assimilation from Voshtani et al., (2021), Part I&II  <br />
-PvKF is demostrated for GOSAT methane assimilation with hemispheric CMAQ model <br />
+Readme file for parametric variance Kalman filter (PvKF) data assimilation from Voshtani et al., (2021), Part I&II  <br />
+PvKF is demonstrated for GOSAT methane assimilation with hemispheric CMAQ model <br />
 December 1, 2021 <br />
 
 # info 
@@ -15,4 +15,5 @@ GOSAT CH4 Full Physics (https://catalogue.ceda.ac.uk/uuid/f9154243fd8744bdaf2a59
 EDGAR CH4 (https://edgar.jrc.ec.europa.eu/index.php/dataset_ghg60)
 
 
-NOTE: GOSTA bias-corrected data against surface (NOAA) observations are generated as "gosat_cmaq_biascorrected_qc_on_latitude.mat". Bias correction is explained on Voshtani et al. (2021, Part I, Section 4.1 & 4.2). The code will still run without loading bias-corrected (.mat) file, once it is commented. Input and modeling data can be also accessed by contacting Sina Voshtani (sinavoshtani@cmail.carleton.ca)
+NOTE: GOSTA bias-corrected data against surface (NOAA) observations are generated as "gosat_cmaq_biascorrected_qc_on_latitude.mat". Bias correction is explained in Voshtani et al. (2021, Part I, Section 4.1 & 4.2). The code will still run without loading the bias-corrected (.mat) file, once it is commented. Input and modelling data can also be accessed by contacting Sina Voshtani (sinavoshtani@cmail.carleton.ca)
+
