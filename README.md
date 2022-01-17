@@ -1,6 +1,6 @@
 # PvKF assimilation (regular)
 
-Readme file for parametric variance Kalman filter (PvKF) data assimilation from Voshtani et al., (2022), Part I&II  <br />
+Readme file for parametric variance Kalman filter (PvKF) data assimilation from Voshtani et al., (2022), Part I, doi: https://doi.org/10.3390/rs14020371  <br />
 PvKF is demonstrated for GOSAT methane assimilation with hemispheric CMAQ model <br />
 December 1, 2021 <br />
 
